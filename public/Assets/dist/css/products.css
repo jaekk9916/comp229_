@@ -1,0 +1,9 @@
+.products_list {
+    height: 100%;
+}
+
+.products_photos {
+    height: 200px;
+    display: flex;
+    align-items: center;
+}

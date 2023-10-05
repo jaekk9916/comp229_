@@ -1,0 +1,16 @@
+.name-address-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 1em;
+}
+
+.name-address-wrapper h1 {
+    margin-right: auto; /* This ensures the name is left-aligned */
+}
+
+.name-address-wrapper .address {
+    margin-left: auto; /* This ensures the address is right-aligned */
+    margin-bottom: 0px;
+}
+
